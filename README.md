@@ -41,24 +41,6 @@ This repository contains clean, well-documented SQL solutions for LeetCode datab
 
 4. Study the explanation to understand the approach
 
-## How to Use
-
-**For Interview Prep:**
-- Start with fundamental problems (175, 183, 607)
-- Progress to complex joins and aggregations
-- Practice writing queries without hints
-
-**For Learning:**
-- Read the problem statement carefully
-- Understand the table structure first
-- Try solving before looking at the solution
-- Experiment with variations of the query
-
-**As a Reference:**
-- Search by problem number
-- Look up specific SQL concepts
-- Review different approaches
-
 ## Contributing
 
 Contributions are welcome! To add new solutions:
